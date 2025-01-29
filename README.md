@@ -5,7 +5,7 @@
 <h1 align="center"><b>Hi , I'm Wilber </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
-  <p>Soy un Desarrollador Web y un estudiante de Ingeniería Informática</p>
+  <p>Soy Desarrollador Web y estudiante de Ingeniería Informática</p>
   <p></p>
 </div>
 
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   <img width="70" src="assets/typescript.svg" alt="typescript"/>
   <img width="70" src="https://img.icons8.com/color/96/bootstrap--v2.png" alt="bootstrap"/>
   <img width="70" src="./assets/react.svg" alt="react"/>
-  <img width="50" src="./assets/astro.svg" alt="astro">
+  <img width="70" src="./assets/astro2.svg" alt="astro">
 </div>
 
 <div align="center">
