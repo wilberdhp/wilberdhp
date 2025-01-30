@@ -1,8 +1,8 @@
-<div align="center">
-  <img width="100" height="100" src="https://img.icons8.com/small/100/user.png" alt="user"/>
+<div style="margin-top: 0;" align="center">
+  <img src="./assets/coding-2.gif" alt="user"/>
 </div>
 
-<h1 align="center"><b>Hi , I'm Wilber </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Wilber </b><img src="./assets/saludar.gif" width="35"></h1>
 
 <div align="center">
   <p>Soy Desarrollador Web y estudiante de Ingeniería Informática</p>
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
   <a href="#" style="vertical-align: middle;">
     <img height="40" src="./assets/web.png" alt="web"/>
   </a>
-  <a href="#" style="vertical-align: middle;">
+  <a href="mailto:wilberdhp.dev@gmail.com" style="vertical-align: middle;">
     <img  height="50" src="./assets/gmail.svg" alt="gmail"/>
   </a>
   <a href="#" style="vertical-align: middle;">
@@ -98,8 +98,5 @@ Here are some ideas to get you started:
   </a>
   <a href="#" style="vertical-align: middle;">
     <img height="50" src="./assets/linkedin.svg" alt="linkedin"/>
-  </a>
-  <a href="#" style="vertical-align: middle;">
-    <img height="50" src="./assets/facebook.svg" alt="facebook"/>
-  </a>  
+  </a> 
 </div>
