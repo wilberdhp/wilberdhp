@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/coding-2.gif" alt="user"/>
+  <img src="./assets/coding-2.gif" alt="saludo"/>
 </div>
 
 <h1 align="center"><b>Hi , I'm Wilber </b><img src="./assets/saludar.gif" width="35"></h1>
