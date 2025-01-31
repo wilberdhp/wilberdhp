@@ -10,6 +10,21 @@
   </p>
 </div>
 
+<!--
+**wilberdhp/wilberdhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 ## 🌐 Social Media :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilber-delfín-hernández-peña-b28779273/) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:wilberdhp.dev@gmail.com)
@@ -32,39 +47,20 @@
   <img src="https://skillicons.dev/icons?i=vscode,powershell,git,bash,github" /><br>
 </div><br>
 
-<!--
-**wilberdhp/wilberdhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
-<br>
-<br>
+
+<h1>📊 My Github Stats and Languages :</h1>
 <div align="center" style="display: flex; gap: 5px; align-items: start; justify-content: center;">
   <div align="center">
-    <h2>📊 My Github Stats :</h2>
     <img align="center" alt="GitHub stats" width="500" src="https://github-readme-stats.vercel.app/api?username=wilberdhp&show_icons=true&count_private=true&include_all_commits=true&theme=radical">
   </div>
 
   <div align="center">
-    <h2>💡 My Languages :</h2>
     <img align="center" alt="Top Langs" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilberdhp&langs_count_private=true&theme=radical&card_width=445">
   </div>
 </div>
 
-
-<br>
-<br>
 <br>
 <br>
 
