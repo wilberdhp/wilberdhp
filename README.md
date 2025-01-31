@@ -87,7 +87,7 @@ Here are some ideas to get you started:
   <a href="#" style="vertical-align: middle;">
     <img height="50" src="./assets/linkedin.svg" alt="linkedin"/>
   </a> 
+</div>
 
   <!-- Error 404 -->
-  <img src="./assets/error-404.gif">
-</div>
+<img src="./assets/error-404.gif">
