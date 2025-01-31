@@ -12,23 +12,23 @@
 
 ## 🌐 Social Media :
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilber-delfín-hernández-peña-b28779273/) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:wilberdhp.dev@gmail.com)
 
-# 💻 Tech Stack - Tools:
-<h2 align="center">🛠️ My Skills</h2>
+<!-- # 💻 Tech Stack - Tools: -->
+# 🛠️ 💻 My Skills :
 
 <div align="center">
-<h2>Front end :</h2>
+<h2>Front end</h2>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwindcss,react,astro" /><br>
 </div><br>
 
 <div align="center">
-  <h2>Back end :</h2>
-  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mysql" /><br>
+  <h2>Back end</h2>
+  <img  src="https://skillicons.dev/icons?i=nodejs,expressjs,mysql" /><br>
 </div><br>
 
 <div align="center">
-  <h2>Tools :</h2>
+  <h2>Tools</h2>
   <img src="https://skillicons.dev/icons?i=vscode,powershell,git,bash,github" /><br>
 </div><br>
 
