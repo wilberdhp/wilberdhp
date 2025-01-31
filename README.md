@@ -48,18 +48,15 @@ Here are some ideas to get you started:
 </div><br>
 
 
-
-
-<h1>📊 My Github Stats and Languages :</h1>
-<div align="center" style="display: flex; gap: 5px; align-items: start; justify-content: center;">
+<h1>📊 My Github Stats :</h1>
   <div align="center">
-    <img style="max-width: 300px;"  align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wilberdhp&show_icons=true&count_private=true&include_all_commits=true&theme=radical">
+    <img align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wilberdhp&show_icons=true&count_private=true&include_all_commits=true&theme=radical">
   </div>
 
+<h1>🔎 My Languages :</h1>
   <div align="center">
-    <img style="max-width: 300px;" align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilberdhp&langs_count_private=true&theme=radical&card_width=445">
+    <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilberdhp&langs_count_private=true&theme=radical&card_width=445">
   </div>
-</div>
 
 <br>
 <br>
