@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 <h1>📊 My Github Stats and Languages :</h1>
 <div align="center" style="display: flex; gap: 5px; align-items: start; justify-content: center;">
   <div align="center">
-    <img align="center" alt="GitHub stats" width="500" src="https://github-readme-stats.vercel.app/api?username=wilberdhp&show_icons=true&count_private=true&include_all_commits=true&theme=radical">
+    <img style="max-width: 300px;"  align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wilberdhp&show_icons=true&count_private=true&include_all_commits=true&theme=radical">
   </div>
 
   <div align="center">
-    <img align="center" alt="Top Langs" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilberdhp&langs_count_private=true&theme=radical&card_width=445">
+    <img style="max-width: 300px;" align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilberdhp&langs_count_private=true&theme=radical&card_width=445">
   </div>
 </div>
 
