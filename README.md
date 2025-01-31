@@ -27,7 +27,12 @@ Here are some ideas to get you started:
 
 ## 🌐 Social Media :
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilber-delfín-hernández-peña-b28779273/) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:wilberdhp.dev@gmail.com)
+<a href="https://www.linkedin.com/in/wilber-delfín-hernández-peña-b28779273/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:wilberdhp.dev@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=Gmail&logoColor=white">
+</a>
 
 <!-- # 💻 Tech Stack - Tools: -->
 # 🛠️ 💻 My Skills :
