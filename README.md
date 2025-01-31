@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <img style="vertical-align: middle;" width="70" src="./assets/bootstrap.png" alt="bootstrap"/>
   <img style="vertical-align: middle;" width="70" src="./assets/tailwind.svg" alt="tailwind"/>
   <img style="vertical-align: middle;" width="70" src="./assets/react.svg" alt="react"/>
-  <img style="vertical-align: middle;" width="70" src="./assets/astro2.svg" alt="astro">
+  <img style="vertical-align: middle;" width="70" src="./assets/astro.svg" alt="astro">
 </div>
 
 <div align="center">
@@ -76,18 +76,25 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>✨ Social</h2>
   <a href="#" style="vertical-align: middle;">
-    <img height="40" src="./assets/web.png" alt="web"/>
-  </a>
+    <img height="55" src="./assets/portfolio.svg" alt="portafolio"/>
+  </a> 
+  <!-- <a href="#" style="vertical-align: middle;">
+    <img height="50" src="./assets/web.png" alt="web"/>
+  </a> -->
   <a href="mailto:wilberdhp.dev@gmail.com" style="vertical-align: middle;">
-    <img  height="50" src="./assets/gmail.svg" alt="gmail"/>
-  </a>
-  <a href="#" style="vertical-align: middle;">
-    <img height="50" src="./assets/github-cuenta.svg" alt="github"/>
+    <img  height="40" src="./assets/gmail.svg" alt="gmail"/>
   </a>
   <a href="#" style="vertical-align: middle;">
     <img height="50" src="./assets/linkedin.svg" alt="linkedin"/>
   </a> 
+
 </div>
 
-  <!-- Error 404 -->
-<img src="./assets/error-404.gif">
+<br>
+<br>
+<br>
+<br>
+
+<div align="center">
+  <img width="300" src="./assets/error-404.gif">
+</div>
