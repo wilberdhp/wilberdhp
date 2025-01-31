@@ -53,12 +53,12 @@ Here are some ideas to get you started:
 <div align="center" style="display: flex; gap: 5px; align-items: start; justify-content: center;">
   <div align="center">
     <h2>📊 My Github Stats :</h2>
-    <img align="center" alt="GitHub stats" width="400" src="https://github-readme-stats.vercel.app/api?username=wilberdhp&show_icons=true&count_private=true&include_all_commits=true&theme=radical">
+    <img align="center" alt="GitHub stats" width="500" src="https://github-readme-stats.vercel.app/api?username=wilberdhp&show_icons=true&count_private=true&include_all_commits=true&theme=radical">
   </div>
 
   <div align="center">
     <h2>💡 My Languages :</h2>
-    <img align="center" alt="Top Langs" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilberdhp&langs_count_private=true&theme=radical&card_width=445">
+    <img align="center" alt="Top Langs" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilberdhp&langs_count_private=true&theme=radical&card_width=445">
   </div>
 </div>
 
