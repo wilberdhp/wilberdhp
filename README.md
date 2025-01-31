@@ -6,7 +6,7 @@
 
 <div align="center">
   <p>
-    I am a web developer and Computer Engineering student. I like to program and create innovative and efficient solutions through web development 👨🏽‍💻.
+    I am a web developer and Computer Engineering student. I like to program and create innovative and efficient solutions through web development.
   </p>
 </div>
 
