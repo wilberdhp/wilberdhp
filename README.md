@@ -75,14 +75,14 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h2>🌐 Social Media :</h2>
-  <a href="#" style="vertical-align: middle;">
-    <img height="55" src="./assets/portfolio.svg" alt="portafolio"/>
+  <a href="#">
+    <img style="vertical-align: middle;" height="55" src="./assets/portfolio.svg" alt="portafolio"/>
   </a>
-  <a href="mailto:wilberdhp.dev@gmail.com" style="vertical-align: middle;">
-    <img  height="40" src="./assets/gmail.svg" alt="gmail"/>
+  <a href="mailto:wilberdhp.dev@gmail.com">
+    <img style="vertical-align: middle;" height="40" src="./assets/gmail.svg" alt="gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/wilber-delfín-hernández-peña-b28779273/" style="vertical-align: middle;">
-    <img height="50" src="./assets/linkedin.svg" alt="linkedin"/>
+  <a href="https://www.linkedin.com/in/wilber-delfín-hernández-peña-b28779273/">
+    <img style="vertical-align: middle;" height="50" src="./assets/linkedin.svg" alt="linkedin"/>
   </a> 
 </div>
 
