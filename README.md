@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h2>Tools</h2>
-  <img src="https://skillicons.dev/icons?i=vscode,powershell,git,bash,github" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,powershell,git,github" /><br>
 </div><br>
 
 
