@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <h1>🔎 My Languages :</h1>
   <div align="center"><br /> 
     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilberdhp&layout=compact&theme=radical&card_width=445)](https://github.com/wilberdhp/github-readme-stats)
+  
     <!-- <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilberdhp&langs_count_private=true&theme=radical&card_width=445"> -->
   </div>
 
