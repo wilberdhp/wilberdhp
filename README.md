@@ -6,7 +6,7 @@
 
 <div align="center">
   <p>
-    I am a Web Developer and Computer Engineering student. I like to program and create innovative and efficient solutions through web development.
+    I'm a Web Developer and Computer Engineering student. I like to program and create innovative and efficient solutions through web development.
   </p>
 </div>
 
@@ -44,22 +44,27 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h2>Tools</h2>
-  <img src="https://skillicons.dev/icons?i=vscode,powershell,git,github" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,npm,powershell,git,github,netlify" /><br>
 </div><br>
 
 
 <h1>📊 My Github Stats :</h1>
-  <div align="center">
-    <img align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wilberdhp&show_icons=true&count_private=true&include_all_commits=true&theme=radical">
+  <div align="center"><br />
+    
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wilberdhp&show_icons=true&theme=radical&card_width=445)
+<!--     <img align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wilberdhp&show_icons=true&count_private=true&include_all_commits=true&theme=radical"> -->
   </div>
 
 <h1>🔎 My Languages :</h1>
-  <div align="center">
-    <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilberdhp&langs_count_private=true&theme=radical&card_width=445">
+  <div align="center"><br /> 
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilberdhp&layout=compact&theme=radical&card_width=445)](https://github.com/wilberdhp/github-readme-stats)
+    <!-- <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilberdhp&langs_count_private=true&theme=radical&card_width=445"> -->
   </div>
 
 <br>
 <br>
+
 
 <div align="center">
   <img width="300" src="./assets/error-404.gif">
