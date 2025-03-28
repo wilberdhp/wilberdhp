@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="480" src="./assets/coding-2.gif" alt="saludo"/>
+  <img styles="aspect-ratio: 1 / 2;" width="480" src="./assets/coding-2.gif" alt="saludo"/>
 </div>
 
 <h1 align="center"><b>Hi , I'm Wilber </b><img src="./assets/saludar.gif" width="35"></h1>
