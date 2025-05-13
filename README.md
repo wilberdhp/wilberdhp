@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h2>Back end</h2>
-  <img  src="https://skillicons.dev/icons?i=nodejs,expressjs,mysql" /><br>
+  <img  src="https://skillicons.dev/icons?i=nodejs,expressjs,electron,mysql,postgresql,sqlite" /><br>
 </div><br>
 
 <div align="center">
