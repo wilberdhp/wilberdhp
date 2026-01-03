@@ -4,6 +4,12 @@
 
 <h1 align="center"><b>Hi , I'm Wilber </b><img src="./assets/saludar.gif" width="35"></h1>
 
+**Software Engineer** with over **3 years of experience** creating digital solutions and custom management systems that drive business growth. Specialized in developing high-performance web platforms using **React, Next.js, and Astro**, as well as robust desktop applications with **Electron and Tauri**, with a strong command of **TailwindCSS** for modern, responsive interfaces.
+
+Experienced in leading the full software development lifecycle: from initial consulting and user experience design to deployment and production maintenance. I have successfully developed digital ecosystems for diverse sectors such as import/export, retail, animal health, and gastronomy.
+
+
+### Spanish
 **Ingeniero de Software** con más de **3 años de experiencia** creando soluciones digitales y sistemas de gestión a medida que impulsan el crecimiento empresarial. Especializado en el desarrollo de plataformas web de alto rendimiento con **React, Next.js y Astro**, y aplicaciones de escritorio robustas mediante **Electron y Tauri**, con un sólido dominio de **TailwindCSS** para interfaces modernas y responsivas. 
 
 Experiencia liderando el ciclo completo de vida del software: desde la consultoría inicial y el diseño de la experiencia de usuario, hasta el despliegue y mantenimiento en producción. He desarrollado con éxito ecosistemas digitales para diversos sectores como importación, retail, salud animal y gastronomía.
