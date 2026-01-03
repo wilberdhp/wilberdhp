@@ -4,11 +4,9 @@
 
 <h1 align="center"><b>Hi , I'm Wilber </b><img src="./assets/saludar.gif" width="35"></h1>
 
-<div align="center">
-  <p>
-    I'm a Web Developer and Computer Engineering student. I like to program and create innovative and efficient solutions through web development.
-  </p>
-</div>
+**Ingeniero de Software** con más de **3 años de experiencia** creando soluciones digitales y sistemas de gestión a medida que impulsan el crecimiento empresarial. Especializado en el desarrollo de plataformas web de alto rendimiento con **React, Next.js y Astro**, y aplicaciones de escritorio robustas mediante **Electron y Tauri**, con un sólido dominio de **TailwindCSS** para interfaces modernas y responsivas. 
+
+Experiencia liderando el ciclo completo de vida del software: desde la consultoría inicial y el diseño de la experiencia de usuario, hasta el despliegue y mantenimiento en producción. He desarrollado con éxito ecosistemas digitales para diversos sectores como importación, retail, salud animal y gastronomía.
 
 <!--
 **wilberdhp/wilberdhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,8 +29,12 @@ Here are some ideas to get you started:
 
 <!-- # 💻 Tech Stack - Tools: -->
 # 🛠️ 💻 My Skills :
-
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwindcss,react,astro,nextjs,nodejs,expressjs,electron,rust,tauri,mysql,postgresql,sqlite,vscode,npm,powershell,git,github,netlify,vercel&perline=12" />
+</div>
+
+
+<!-- <div align="center">
 <h2>Front end</h2>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwindcss,react,astro" /><br>
 </div><br>
@@ -45,27 +47,25 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>Tools</h2>
   <img src="https://skillicons.dev/icons?i=vscode,npm,powershell,git,github,netlify,vercel,electron" /><br>
-</div><br>
+</div><br> -->
 
 
-<h1>📊 My Github Stats :</h1>
+<!-- <h1>📊 My Github Stats :</h1>
   <div align="center"><br />
     
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wilberdhp&show_icons=true&theme=radical&card_width=445)
-<!--     <img align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wilberdhp&show_icons=true&count_private=true&include_all_commits=true&theme=radical"> -->
+<img align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wilberdhp&show_icons=true&count_private=true&include_all_commits=true&theme=radical">
   </div>
 
 <h1>🔎 My Languages :</h1>
   <div align="center"><br /> 
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilberdhp&layout=compact&theme=radical&card_width=445)](https://github.com/wilberdhp/github-readme-stats)
-    <!-- <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilberdhp&langs_count_private=true&theme=radical&card_width=445"> -->
+    <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilberdhp&langs_count_private=true&theme=radical&card_width=445">
   </div>
-
-<br>
-<br>
+-->
 
 
-<div align="center">
+<!-- <div align="center">
   <img width="300" src="./assets/error-404.gif">
-</div>
+</div> -->
